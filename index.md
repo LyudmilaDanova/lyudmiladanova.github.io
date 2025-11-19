@@ -1,7 +1,8 @@
-<div style="display: flex; justify-content: center; gap: 30px;">
-  <h2>Начало</h2>
-  <h2>За мен</h2>
-  <h2>Книги</h2>
-  <h2>Контакти</h2>
-</div>
+<nav style="display: flex; gap: 30px; font-size: 22px; font-weight: bold;">
+  <a href="#" style="text-decoration: none; color: inherit;">Начало</a>
+  <a href="#" style="text-decoration: none; color: inherit;">За мен</a>
+  <a href="#" style="text-decoration: none; color: inherit;">Книги</a>
+  <a href="#" style="text-decoration: none; color: inherit;">Контакти</a>
+</nav>
+
 
