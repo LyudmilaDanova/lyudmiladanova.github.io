@@ -1,7 +1,3 @@
-<div class="header-banner">
-  <h1>Людмила Данова</h1>
-</div>
-
 <nav style="display: flex; justify-conent: center; gap: 30px; font-size: 22px; font-weight: bold;">
   <a href="#" style="text-decoration: none; color: inherit;">Начало</a>
   <a href="#" style="text-decoration: none; color: inherit;">За мен</a>
